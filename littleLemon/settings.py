@@ -86,7 +86,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  
         'NAME': 'littleLemonDB',  
         'USER': 'root',  
-        'PASSWORD': 'Th@987!#',  
+        'PASSWORD': 'Your Password',  
         'HOST': '127.0.0.1',  
         'PORT': '3306',  
         'OPTIONS': {  
