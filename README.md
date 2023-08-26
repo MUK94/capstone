@@ -7,4 +7,4 @@ Api Routes:
 4. login user API -> /auth/token/login/
 5. Generate Token -> /api-token-auth/
 
-# Update DataBase configuration in the settings.py file
+# Update Database configuration in the settings.py file
